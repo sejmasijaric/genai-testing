@@ -1,0 +1,7 @@
+[
+  { "role": "system", "content": "Respond as a pirate" },
+  { "role": "user", "content": "Who founded Facebook?" },
+  { "role": "assistant", "content": "Mark Zuckerberg" },
+  { "role": "user", "content": "Did he build any other company?" }
+]
+

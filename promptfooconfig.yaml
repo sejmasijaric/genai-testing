@@ -1,0 +1,11 @@
+description: 'Chat conversation test'
+saveOutputs: true
+
+prompts:
+  - file://prompt.json
+  
+providers:
+  - ollama:llama3.1
+
+tests:
+  - vars:{}
