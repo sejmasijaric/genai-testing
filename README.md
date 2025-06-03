@@ -10,3 +10,5 @@ The official documentation provides guidance on how to install and run Promptfoo
 To run the tests:
 Define your prompts and test cases in promptfooconfig.yaml.
 Run the evaluation with: promptfoo eval
+
+You can find example test cases in the prompts folder of this project. These can be copied or modified for your own use cases and inserted into the configuration file.
